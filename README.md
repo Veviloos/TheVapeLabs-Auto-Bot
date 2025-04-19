@@ -4,7 +4,7 @@ An automated bot for TheVapeLabs airdrop platform that handles battery tapping a
 
 ## Register
 
-- Link https://app.thevapelabs.io/login?ref=225a8625-ae57-4cc6-8542-72f6e4e35225
+- Link https://app.thevapelabs.io/login?ref=f7be0f12-ae1d-4274-80c2-1c0474522c20
 
 ## Features
 
